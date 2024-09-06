@@ -1,6 +1,6 @@
 # Python для анализа данных
 
-Чат курса: 
+Чат курса: https://t.me/+Kb_4pTN5YTtmNjMy
 
 Преподаватель в тг @lyuba_chuba
 
