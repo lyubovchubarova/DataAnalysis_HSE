@@ -22,7 +22,7 @@
 | 7 сентября  | [Командная строка, git](cmd_git/cmd_and_git_cheetsheet.ipynb) | [ДЗ1](cmd_git/homework1.ipynb), дедлайн 21 сентября |                                                                                                           
 | 14 сентября  | [Типы данных в питоне](basic_data_structures/basic_ds.ipynb), [JSON](basic_data_structures/intro_json_2024.ipynb) | [ДЗ2](basic_data_structures/homework2.ipynb), дедлайн 28 сентября |
 | 21 сентября | [Пространство имен и функции](functions/01_1.ipynb). [Декораторы](functions/01_2.ipynb)  | [ДЗ3](functions/homework3.ipynb), дедлайн 5 октября |
-| 28 сентября | [ООП, классы.](classes/01.ipynb) [Основные принципы ООП.](classes/02.ipynb) [Задания на семинар.](classes/tasks.ipynb) | [ДЗ4]|
+| 28 сентября | [ООП, классы.](classes/01.ipynb) [Основные принципы ООП.](classes/02.ipynb) [Задания на семинар.](classes/tasks.ipynb) | [ДЗ4](classes/hw4.ipynb), дедлайн 4 октября|
 | 5 октября | Классы. Продолжение | |
 | 12 октября | Итераторы, генераторы, исключения| |
 | 19 октября | Регулярные выражения | |
