@@ -7,7 +7,7 @@
 Ассистент в тг @osakhsa33
 
 ## Оценивание
-[Ссылка на таблицу с оценками]()
+[Ссылка на таблицу с оценками](https://docs.google.com/spreadsheets/d/1qEnD0BUgLwqq86Ek-kQ-9LwTC9b7kEMlWiQpwXXvow8/edit?gid=0#gid=0)
 
 **Формула оценки**: 0,4*ДЗ + 0,3*Тесты + 0,3*Контрольная
 
