@@ -28,7 +28,7 @@
 | 5 октября | Тренировка на закрепление пройденного| [Дорешивание контеста](https://contest.yandex.ru/contest/69094/standings?clckid=4336e526), дедлайн 12 октября |
 | 12 октября | Работа со строками и [регулярные выражения](regexp/seminar.ipynb) | [ДЗ5](regexp/hw_regex.ipynb), дедлайн 18 октября  |
 | 19 октября |  [requests](parsers/requests.ipynb), [парсинг](parsers/crawlers.ipynb) | - |
-| 26 октября | Переписывание квизов. Продолжение requests| [ДЗ6](parsers/hw_parsers.ipynb)|
+| 26 октября | Переписывание квизов. Продолжение requests| [ДЗ6](parsers/hw_parsers.ipynb), дедлайн 10 ноября|
 | 2 ноября | ОСЕННИЕ КАНИКУЛЫ | |                                                                                                                                  
 | 9 ноября  | Линтинг и типизация | |                                                                                                           
 | 16 ноября |  | |
