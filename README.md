@@ -28,7 +28,7 @@
 | 19 октября |  [requests](parsers/requests.ipynb), [парсинг](parsers/crawlers.ipynb) | - |
 | 26 октября | Переписывание квизов. Продолжение requests| [ДЗ6](parsers/hw_parsers.ipynb), дедлайн 10 ноября|
 | 2 ноября | ОСЕННИЕ КАНИКУЛЫ | |                                                                                                                                  
-| 9 ноября  | Исключения. Тестирование. Линтинг и типизация. | |                                                                                           
+| 9 ноября  | [Исключения.](exceptions_testing/exceptions_notes.ipynb) [Тестирование.](exceptions_testing/test_notes.ipynb)   | |                                                                                           
 | 16 ноября | Numpy | |
 | 23 ноября | Pandas |  |
 | 30 ноября | Еще pandas | |
