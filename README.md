@@ -43,6 +43,7 @@
 - [Как хранятся числа с плавающей точкой](https://habr.com/ru/articles/745640/)
 - [Массивы и динамическое выделение памяти](https://antonz.ru/list-internals/)
 - [Хэш таблицы](https://habr.com/ru/articles/509220/)
+- [Ликбез по операциям с матрицами](http://math-info.hse.ru/a/2023-24/ling-la/lecture9.pdf)
 
 
 
