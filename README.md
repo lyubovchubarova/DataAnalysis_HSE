@@ -30,7 +30,7 @@
 | 2 ноября | ОСЕННИЕ КАНИКУЛЫ | |                                                                                                                                  
 | 9 ноября  | [Исключения.](exceptions_testing/exceptions_notes.ipynb) [Тестирование.](exceptions_testing/test_notes.ipynb)   | [ДЗ7](exceptions_testing/hw_exceptions_testing.ipynb), дедлайн 20 ноября |                                                                                           
 | 16 ноября | [Numpy](numpy/notes_numpy.ipynb) | [ДЗ8](numpy/hw_numpy.ipynb), дедлайн 25 ноября |
-| 23 ноября | Pandas ([конспект 1](pandas/series_notes.ipynb), [конспект 2](pandas/pandas_notes.ipynb)) | [ДЗ8](pandas/hw_pandas.ipynb), дедлайн 29 ноября |
+| 23 ноября | Pandas ([конспект 1](pandas/series_notes.ipynb), [конспект 2](pandas/pandas_notes.ipynb)) | [ДЗ8](pandas/hw_pandas.ipynb), дедлайн 6 декабря |
 | 30 ноября | Практика по pandas. Seaborn - визуализации на датафреймах| |
 | 7 декабря | Визуализация для презентации данных: matplotlib. Основные виды графиков. Основные ошибки при создании визуализаций | |
 | 14 декабря | EDA, то есть разведочный анализ данных | |
