@@ -32,8 +32,8 @@
 | 16 ноября | [Numpy](numpy/notes_numpy.ipynb) | [ДЗ8](numpy/hw_numpy.ipynb), дедлайн 25 ноября |
 | 23 ноября | Pandas ([конспект 1](pandas/series_notes.ipynb), [конспект 2](pandas/pandas_notes.ipynb)) | [ДЗ8](pandas/hw_pandas.ipynb), дедлайн 6 декабря |
 | 30 ноября | защиты ИВР, нет занятий | |
-| 7 декабря | [Matplotlib](visualisation/matplotlib_notes.ipynb). [Seaborn](visualisation/seaborn_notes.ipynb) | |
-| 14 декабря | Контрольная | |
+| 7 декабря | [Matplotlib](visualisation/matplotlib_notes.ipynb). [Seaborn](visualisation/seaborn_notes.ipynb) | [ДЗ9](visualisation/hw_visualisation.ipynb), дедлайн 20 декабря|
+| 14 декабря | Контрольная, [демо](control/demo.ipynb) | |
 | 21 декабря | Бал, нет занятий | |
 | 28 декабря | Разбор контрольной + что-нибудь интересное | |
 
